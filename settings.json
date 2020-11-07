@@ -1,6 +1,6 @@
 {
-	"delay_for_right_mouse": 0.001,
-	"delay_for_left_mouse": 0.001,
+	"delay_for_right_mouse": 0.01,
+	"delay_for_left_mouse": 0.01,
 	"start_and_stop_key_for_left_button": "z",
 	"start_and_stop_key_for_right_button": "x",
 	"exit_key": "m"
