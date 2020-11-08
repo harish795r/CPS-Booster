@@ -18,7 +18,7 @@
 ```bash
 pip install -r requirements.txt
 ```
-This Installes All The Modules Which Are Needed To Run The Script, This Takes The Help Of Requirements.txt So Open POwershell Window In The Directory 
+This Installes All The Modules Which Are Needed To Run The Script, This Takes The Help Of Requirements.txt So Open Powershell Window In The Directory 
 Where The Requirements.txt Is There  
 - After Installing All Required Modules, You can now run the main.py
 
@@ -37,4 +37,4 @@ If You Want To Change The Settings/Increase Or Decrease The CPS Or If You Want T
 
 For Cps, The Lower You Put Delay Time The Lower CPS You Will Get And Change The Keys As You Want 
 
-# If You Find Any Issues In The Script Please Tell Us The Issue In The Issues Tab We Will Fix It 
+# If You've Found Any Issues In The Script Then Please Tell Us The Issue In The Issues Tab We Will Fix It 
