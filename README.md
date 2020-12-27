@@ -13,7 +13,7 @@
 - Few Modules of Python also mentioned in the requirements.txt
 
 # Few Steps Have To Be Done Before Running The Script :-
-- Open Powershell Window in the sAssist folder, After opening type:-
+- Open Powershell Window in the CPS folder, After opening type:-
 
 ```bash
 pip install -r requirements.txt
