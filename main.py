@@ -1,5 +1,5 @@
 # Cps-Booster For Getting High Cps While PLaying Minecraft For Bridging And PvP 
-# If You Like This Script Then Please Follow Me on Github --> www.github.com/harish795
+
 
 from pynput.mouse import Button, Controller
 from pynput.keyboard import Listener, KeyCode
