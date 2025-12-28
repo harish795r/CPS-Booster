@@ -1,8 +1,8 @@
 # CPS-Booster 
 <p align="center"><img src="https://i.imgur.com/1ALo9cW.gif"/></p>
 
-[![Compatibility](https://img.shields.io/badge/python-3-brightgreen.svg)](PROJECT)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
+[![Compatibility](https://img.shields.io/badge/python-3-brightgreen.svg)]
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)]
 [![Open Source Love](https://badges.frapsoft.com/os/v3/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
 
