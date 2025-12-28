@@ -36,5 +36,3 @@ If You Want To Change The Settings/Increase Or Decrease The CPS Or If You Want T
 <p align="left"><img src="https://i.imgur.com/396XVxl.png"></p>
 
 For Cps, The Lower You Put Delay Time The Lower CPS You Will Get And Change The Keys As You Want 
-
-# If You've Found Any Issues In The Script Then Please Tell Us The Issue In The Issues Tab We Will Fix It 
